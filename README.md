@@ -65,7 +65,7 @@ The second panel exposes the additive engine derived from tin's atomic number an
 
 At the bottom of the main window, the **ORBITALS — AMBISONICS** strip lets individual electron-shell channels (S, P, D) feed energy into the spatialization stage: the sound is encoded to first-order ambisonics and decoded periphonically over the 8-channel cube, following the geometry of the corresponding atomic orbital. **REV / DUMP / ROOM / DIFFUSE** shape the character of that spatial diffusion, and the small monitor window below tracks the running temperature/pressure state used to fire transient events.
 
-![Signal monitor](img/gui-signal-monitor.png)
+<img src="img/gui-signal-monitor.png" alt="Signal monitor" width="35%">
 
 ## Premiere
 
@@ -77,8 +77,8 @@ From the official concert programme:
 >
 > "The composition/improvisation derivative is a journey through the sonic dimensions of tin, it creates a 'bond' between the real sound of the tin cry and an imaginary soundscape."
 
-![LAC 2014 flyer](img/lac2014-flyer.jpg)
-![LAC 2014 programme](img/lac2014-programme.jpg)
+<img src="img/lac2014-flyer.jpg" alt="LAC 2014 flyer" width="45%">
+<img src="img/lac2014-programme.jpg" alt="LAC 2014 programme" width="45%">
 
 ## License
 
